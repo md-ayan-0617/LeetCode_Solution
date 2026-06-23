@@ -37,4 +37,5 @@
 |  |
 | ------- |
 | [1446-consecutive-characters](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1446-consecutive-characters) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
