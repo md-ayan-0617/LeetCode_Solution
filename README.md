@@ -20,6 +20,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
