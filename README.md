@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 | ------- |
 | [1446-consecutive-characters](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1446-consecutive-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
