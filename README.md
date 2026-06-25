@@ -1,4 +1,35 @@
-# LeetCode_Solution
+# 🚀 LeetCode Journey
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+Welcome to my LeetCode solutions repository! This repository documents my daily coding practice and problem-solving journey.
+
+## 👨‍💻 About Me
+- 💻 Language: Java
+- 📚 Focus: Data Structures & Algorithms
+- 🎯 Goal: Become a better problem solver through consistent practice.
+- 🔄 Solutions are automatically synced using **LeetHub**.
+
+## 📖 What You'll Find
+- ✔️ Clean and optimized Java solutions
+- ✔️ Problems from Easy, Medium, and Hard levels
+- ✔️ Daily coding practice
+- ✔️ Well-organized repository
+
+## 🌱 Current Mission
+- 🔥 Maintain a daily LeetCode streak
+- 📈 Improve DSA skills
+- 🧠 Strengthen logical thinking
+- 🎯 Prepare for coding interviews
+
+## 💡 Why This Repository?
+Every solved problem represents one step toward becoming a stronger software engineer. This repository reflects my commitment to learning, consistency, and continuous improvement.
+
+---
+
+⭐ *"Small progress every day leads to big results."*
+
+Thanks for visiting! Feel free to explore the solutions and follow my coding journey.# LeetCode_Solution
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
