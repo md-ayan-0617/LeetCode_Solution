@@ -57,6 +57,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -68,10 +69,19 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1446-consecutive-characters](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1446-consecutive-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
