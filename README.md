@@ -53,6 +53,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
 |  |
 | ------- |
