@@ -40,6 +40,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -91,4 +92,8 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2951-find-the-peaks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
