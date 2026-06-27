@@ -38,6 +38,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0231-power-of-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0326-power-of-three) |
 | [2119-a-number-after-a-double-reversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2119-a-number-after-a-double-reversal) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,12 +57,14 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2951-find-the-peaks](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +92,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Enumeration
 |  |
 | ------- |
