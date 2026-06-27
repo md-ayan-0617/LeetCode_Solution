@@ -1,20 +1,10 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        HashMap<Character,Integer> a=new HashMap<>();
-        HashMap<Character,Integer> b=new HashMap<>();
-        b.put(t.charAt(0),1);
-        for(int i=0;i<s.length();i++){
-                b.put(t.charAt(i+1),b.getOrDefault(t.charAt(i+1),0)+1);
-                a.put(s.charAt(i),a.getOrDefault(s.charAt(i),0)+1);
-        }
-        for (Character key : b.keySet()) {
-             if (!(a.get(key)== b.get(key))) {
-                    return key;
-    }
-}
-        System.out.println(a);
-        System.out.println(b);
-      
-        return 'a';
+        char x=0;
+        char arr1[]=s.toCharArray();
+        char arr2[]=t.toCharArray();
+        for(char i:arr1){x^=i;}
+        for(char i:arr2){x^=i;}
+        return x;
     }
 }
