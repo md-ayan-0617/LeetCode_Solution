@@ -37,6 +37,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | ------- |
 | [0231-power-of-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0326-power-of-three) |
+| [2119-a-number-after-a-double-reversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2119-a-number-after-a-double-reversal) |
 ## Bit Manipulation
 |  |
 | ------- |
