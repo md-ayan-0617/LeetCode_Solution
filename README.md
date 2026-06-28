@@ -56,6 +56,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -70,6 +71,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -78,6 +80,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | ------- |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
