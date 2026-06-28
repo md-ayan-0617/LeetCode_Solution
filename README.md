@@ -58,6 +58,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -75,6 +76,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | ------- |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
