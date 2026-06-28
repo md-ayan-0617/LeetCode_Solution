@@ -61,6 +61,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2951-find-the-peaks](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2951-find-the-peaks) |
 ## Hash Table
@@ -70,6 +71,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0389-find-the-difference](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +124,8 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
