@@ -66,6 +66,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0704-binary-search](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
 | ------- |
