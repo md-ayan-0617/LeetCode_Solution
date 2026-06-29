@@ -58,6 +58,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +102,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
