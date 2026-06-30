@@ -36,6 +36,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0326-power-of-three) |
 | [2119-a-number-after-a-double-reversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -137,5 +138,10 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0258-add-digits) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
