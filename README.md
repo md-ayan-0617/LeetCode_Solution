@@ -63,6 +63,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0744-find-smallest-letter-greater-than-target](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -86,6 +87,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | [0389-find-the-difference](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
@@ -127,6 +129,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 | ------- |
 | [0191-number-of-1-bits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -144,4 +148,20 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
