@@ -10,7 +10,6 @@ class Solution {
                 }
             }
         }
-        for(int[] a:arr)System.out.println(Arrays.toString(a));
         int i=0;int j=len-1;
         for(int k=0;k<len;k++){
             while(i<=j){
