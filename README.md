@@ -35,6 +35,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0326-power-of-three) |
@@ -55,6 +56,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -133,6 +135,7 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting Sort
 |  |
