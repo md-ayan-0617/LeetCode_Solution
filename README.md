@@ -167,4 +167,20 @@ Thanks for visiting! Feel free to explore the solutions and follow my coding jou
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/md-ayan-0617/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
